@@ -11,7 +11,7 @@ body {
 .name {
     text-align: left;
 }
-.description {
+.right {
     text-align: right;
 }
 h1.fontOne {

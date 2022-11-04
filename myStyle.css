@@ -42,3 +42,7 @@ img.displayed {
 float: left;    
 margin: 0 15px 0 0;
 }
+
+#resume {
+    border: 2px solid #555;
+}
